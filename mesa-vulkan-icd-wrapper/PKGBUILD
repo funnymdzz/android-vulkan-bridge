@@ -27,7 +27,7 @@ makedepends=(
 )
 
 source=(
-  "mesa-vulkan-icd-wrapper::git+https://github.com/xMeM/mesa.git#branch=wrapper"
+  "mesa-vulkan-icd-wrapper::git+https://github.com/leegao/bionic-vulkan-wrapper"
   "0001-mesa-vulkan-icd-wrapper-Enable-Android-Vulkan-driver.patch"
 )
 
